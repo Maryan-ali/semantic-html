@@ -2,7 +2,7 @@
 
 ## Objective
 
-I attempted to refactor an assignment into a semantic HTML code
+I attempted to refactor this assignment into a semantic HTML code
 
 ## Screenshot of Final page
 
