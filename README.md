@@ -10,6 +10,4 @@ I attempted to refactor this assignment into a semantic HTML code
 https://
 
 ##  Contributions 
-From zoom lectures
-(https://www.sachinsf.com/how-to-push-the-code-from-vs-code-to-github/)
 
